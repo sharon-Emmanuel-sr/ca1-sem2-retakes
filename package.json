@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "expess": "^0.0.1-security"
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
   }
 }
